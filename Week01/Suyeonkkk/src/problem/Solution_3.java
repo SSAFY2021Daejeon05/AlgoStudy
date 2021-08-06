@@ -1,4 +1,4 @@
-package problem_3;
+package problem;
 
 class Solution_3 {
     public int[] solution(int[] answers) {

@@ -1,4 +1,4 @@
-package problem_1;
+package problem;
 
 class Solution_1 {
     public long solution(int price, int money, int count) {
