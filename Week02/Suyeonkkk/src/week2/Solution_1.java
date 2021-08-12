@@ -1,4 +1,4 @@
-package problem;
+package week2;
 
 // 상호 평가
 import java.util.*;

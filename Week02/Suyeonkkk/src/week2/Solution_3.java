@@ -1,4 +1,4 @@
-package problem;
+package week2;
 
 class Solution_3 {
     public String solution(String new_id) {
