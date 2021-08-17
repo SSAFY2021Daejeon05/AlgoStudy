@@ -3,12 +3,10 @@ class Solution {
         String answer = "";
         String temp = new_id.toLowerCase();
 
-        System.out.println("이전 " + temp);
         temp = temp.replaceAll("[^-_.a-z0-9]","");
-        System.out.println( "이후 " + temp);
+
         temp = temp.replaceAll("[.]{2,}",".");
         temp = temp.replaceAll("^[.]|[.]$","");
-        System.out.println(temp.length());
         if(temp.equals(""))
             temp+="a";
         if(temp.length() >=16){
