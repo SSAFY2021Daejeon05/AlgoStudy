@@ -60,3 +60,10 @@
 > - 행렬 태두리 회전하기 (https://programmers.co.kr/learn/courses/30/lessons/77485)
 > - 문자열을 정수로 바꾸기 (https://programmers.co.kr/learn/courses/30/lessons/12925)
 > - 청소년 상어 (https://www.acmicpc.net/problem/19236)
+
+#### 9주차 (삼성문제 매주 하나씩)
+> - 프로그래머스 위클리 문제 9주차: (https://programmers.co.kr/learn/courses/30/lessons/86971)
+> - 나누어 떨어지는 숫자 배열 (https://programmers.co.kr/learn/courses/30/lessons/12910)
+> - 두 정수 사이의 합 (https://programmers.co.kr/learn/courses/30/lessons/12912)
+> - 멀쩡한 사각형 (https://programmers.co.kr/learn/courses/30/lessons/62048)
+> - 구슬탈출 2 (https://www.acmicpc.net/problem/13460)
